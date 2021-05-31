@@ -1,0 +1,17 @@
+body {
+    background-color: khaki;
+    background-image: image();
+    text-align: center;
+}
+    h1 ,h2, h3 {
+        font-family: "poppins" , sans-serif;
+        font-weight: 20px;
+    }
+    image.dome.png{
+        border-radius: 10px;
+        width: 20px;
+        height: 20px;
+        object-fit: cover;
+    }
+
+
